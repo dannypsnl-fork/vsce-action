@@ -1,4 +1,4 @@
-FROM node:10-slim
+FROM node:12-slim
 
 RUN npm i -g vsce pnpm
 
